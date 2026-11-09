@@ -1,0 +1,4 @@
+streamlit>=1.36
+faster-whisper>=1.0.3
+deep-translator>=1.11.4
+edge-tts>=6.1.12
